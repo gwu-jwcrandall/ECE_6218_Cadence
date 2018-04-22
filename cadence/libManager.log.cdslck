@@ -5,12 +5,12 @@
 #
 LockStakeVersion               1.1
 LoginName                      jwcrandall
-HostName                       linux31.cflab.seas.gwu.edu
-ProcessIdentifier              5022
-ProcessCreationTime_UTC        1504038683
-ProcessCreationTime_Readable   Tue Aug 29 16:31:23 2017 EDT
-AppIdentifier                  /apps/cadence/ic/tools/dfII/bin/64bit/libManager
+HostName                       linux04.cflab.seas.gwu.edu
+ProcessIdentifier              5615
+ProcessCreationTime_UTC        1524425759
+ProcessCreationTime_Readable   Sun Apr 22 15:35:59 2018 EDT
+AppIdentifier                  /apps/cadence/ic/tools/dfII/bin/32bit/libManager
 OSType                         lnx86
 ReasonForPlacingEditLock       log file
 FilePathUsedToEditLock         /home/seas/jwcrandall/cadence/libManager.log
-TimeEditLocked                 Tue Aug 29 16:31:23 2017 EDT
+TimeEditLocked                 Sun Apr 22 15:35:59 2018 EDT

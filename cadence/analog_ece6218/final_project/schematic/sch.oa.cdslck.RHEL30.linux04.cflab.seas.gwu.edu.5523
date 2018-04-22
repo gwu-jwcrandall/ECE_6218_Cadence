@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      jwcrandall
 HostName                       linux04.cflab.seas.gwu.edu
-ProcessIdentifier              4839
-ProcessCreationTime_UTC        1523815943
-ProcessCreationTime_Readable   Sun Apr 15 14:12:23 2018 EDT
+ProcessIdentifier              5523
+ProcessCreationTime_UTC        1524425757
+ProcessCreationTime_Readable   Sun Apr 22 15:35:57 2018 EDT
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/seas/jwcrandall/cadence/analog_ece6218/OTA/schematic/sch.oa.cdslck
-TimeEditLocked                 Sun Apr 15 15:54:29 2018 EDT
+FilePathUsedToEditLock         /home/seas/jwcrandall/cadence/analog_ece6218/final_project/schematic/sch.oa.cdslck
+TimeEditLocked                 Sun Apr 22 15:37:26 2018 EDT

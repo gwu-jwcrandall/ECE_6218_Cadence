@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Sun Apr 22 15:35:57 2018 EDT
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/seas/jwcrandall/cadence/analog_ece6218/final_project/schematic/sch.oa.cdslck
-TimeEditLocked                 Sun Apr 22 15:37:26 2018 EDT
+FilePathUsedToEditLock         /home/seas/jwcrandall/cadence/analog_ece6218/OTA/layout/layout.oa.cdslck
+TimeEditLocked                 Sun Apr 22 16:49:15 2018 EDT
