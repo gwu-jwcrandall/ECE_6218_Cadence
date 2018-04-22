@@ -1,0 +1,57 @@
+\o Program:		@(#)$CDS: cdsLibEditor version 32.10 11/11/2011 13:45 (cat91amd) $
+\o Sub version:		sub-version  s008 
+\o Arguments:		-cdslib /home/seas/jwcrandall/cadence/cds.lib -mpssession virtuoso4830 -mpshost linux04.cflab.seas.gwu.edu 
+\o Working Directory:	linux04.cflab.seas.gwu.edu:/home/seas/jwcrandall/cadence
+\a nrSetWindowVisibility(cdsLibEditor "show")
+\o Qt version: 		4.5.3
+\a nrSetCurrentWindow(cdsLibEditor)
+\a nrListItemAction(cdsLibEditor->mainTable 0 0)
+\o Active cell: 0 0 "analogLib"
+\a nrResizeWindow(cdsLibEditor list(-2 -27 500 400))
+\a nrResizeWindow(cdsLibEditor list(-2 -27 1276 589))
+\a nrResizeWindow(cdsLibEditor list(1099 25 1276 589))
+\a nrSetCurrentWindow(cdsLibEditor)
+\a nrListItemAction(cdsLibEditor->mainTable 19 1)
+\o Active cell: 19 1 "/home/seas/jwcrandall/cadence/abc"
+\a nrListItemAction(cdsLibEditor->mainTable 18 1)
+\o Active cell: 18 1 "$DESIGNKITS/ibm_kits/IBM_IP/ibm_cmos8hp/std_cell/sc/v.20110511/cdslib/oa/ibm_cmos8hp_sc"
+\a nrListItemAction(cdsLibEditor->mainTable 16 1)
+\o Active cell: 16 1 "$DESIGNKITS/ibm_kits/IBM_PDK/bicmos8hp/relHP/cdslib/bicmos8hp"
+\a nrListItemAction(cdsLibEditor->mainTable 15 1)
+\o Active cell: 15 1 "$DESIGNKITS/ibm_kits/IBM_PDK/cmrf7sf/relML/cdslib/esd7rf"
+\a nrListItemAction(cdsLibEditor->mainTable 13 1)
+\o Active cell: 13 1 "$CDK_DIR/lib/NCSU_TechLib_tsmc04_4M2P"
+\a nrListItemAction(cdsLibEditor->mainTable 11 1)
+\o Active cell: 11 1 "$CDK_DIR/lib/NCSU_TechLib_tsmc03"
+\a nrListItemAction(cdsLibEditor->mainTable 9 1)
+\o Active cell: 9 1 "$CDK_DIR/lib/NCSU_TechLib_tsmc02"
+\a nrListItemAction(cdsLibEditor->mainTable 8 1)
+\o Active cell: 8 1 "$CDK_DIR/lib/NCSU_TechLib_hp06"
+\a nrListItemAction(cdsLibEditor->mainTable 6 1)
+\o Active cell: 6 1 "$CDK_DIR/lib/NCSU_TechLib_ami06"
+\a nrListItemAction(cdsLibEditor->mainTable 6 0)
+\o Active cell: 6 0 "NCSU_TechLib_ami06"
+\a nrListItemAction(cdsLibEditor->mainTable 5 0)
+\o Active cell: 5 0 "NCSU_Digital_Parts"
+\a nrListItemAction(cdsLibEditor->mainTable 2 0)
+\o Active cell: 2 0 "adsLib"
+\a nrListItemAction(cdsLibEditor->mainTable 0 0)
+\o Active cell: 0 0 "analogLib"
+\a nrSetCurrentWindow(cdsLibEditor)
+\a nrListItemAction(cdsLibEditor->mainTable 18 0)
+\o Active cell: 18 0 "ibm_cmos8hp_sc"
+\a nrListItemAction(cdsLibEditor->mainTable 20 0)
+\o Active cell: 20 0 ""
+\a nrListItemAction(cdsLibEditor->mainTable 20 1)
+\o Active cell: 20 1 ""
+\a nrSetCurrentWindow(cdsLibEditor)
+\a nrListItemAction(cdsLibEditor->mainTable 18 1)
+\o Active cell: 18 1 "$DESIGNKITS/ibm_kits/IBM_IP/ibm_cmos8hp/std_cell/sc/v.20110511/cdslib/oa/ibm_cmos8hp_sc"
+\a cdsLibEditor->fileExitButton->value = t
+\o QUESTION (CLE-205): You have made changes which have not been saved. \n\nWould you like to save your changes? 
+\a nrSetWindowVisibility(needSaveDialog "show")
+\a nrResizeWindow(needSaveDialog list(1553 205 369 130))
+\a nrSetCurrentWindow(needSaveDialog)
+\a needSaveDialog->yesButton->value = t
+\a nrSetWindowVisibility(cdsLibEditor "hide")
+\a exit(0)

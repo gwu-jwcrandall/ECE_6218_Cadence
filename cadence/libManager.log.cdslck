@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      jwcrandall
+HostName                       linux31.cflab.seas.gwu.edu
+ProcessIdentifier              5022
+ProcessCreationTime_UTC        1504038683
+ProcessCreationTime_Readable   Tue Aug 29 16:31:23 2017 EDT
+AppIdentifier                  /apps/cadence/ic/tools/dfII/bin/64bit/libManager
+OSType                         lnx86
+ReasonForPlacingEditLock       log file
+FilePathUsedToEditLock         /home/seas/jwcrandall/cadence/libManager.log
+TimeEditLocked                 Tue Aug 29 16:31:23 2017 EDT
